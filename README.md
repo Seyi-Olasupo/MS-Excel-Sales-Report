@@ -64,3 +64,6 @@ The salesmen with the least revenue is _**Patrick Graham**_.
 - Data modeling with Power pivot
 - Filters
 - Slicers etc
+
+Thank you for your time.🤝
+Seyi Olasupo. 
