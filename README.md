@@ -4,7 +4,7 @@
 Dashboard User Interface and Navigation portfolio
 - The dashboard represents TNMT portfolio project.
 - One slicer is been created to use for all charts and is clickable for easy navigation.
-- Other insighgts dervied from analysis is shown using the Text-Box.
+- Other insights dervied from analysis is shown using the Text-Box.
 ![](TNMT_Sales_Report_Dashboard.png)
 
 ## Introduction
